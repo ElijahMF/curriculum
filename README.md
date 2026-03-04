@@ -34,16 +34,15 @@ Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia. T
 
 ### 📊 Estatísticas do GitHub
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElijahMF&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahMF&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-* **Portfólio:** [Link para seu site, se houver]
+* **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eric-fuentes-14b254317/))
+* **E-mail:** [seu-email@exemplo.com](mailto:edml.financeiro@gmail.com)
 
 ---
 
