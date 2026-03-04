@@ -32,13 +32,6 @@ Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia. T
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElijahMF&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahMF&layout=compact&theme=radical)
-
----
-
 ### 📫 Vamos nos conectar?
 
 * **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eric-fuentes-14b254317/))
